@@ -1,6 +1,7 @@
 {
   "name": "email-api",
   "version": "1.0.0",
+  "type": "module",
   "description": "Email API using Node.js & Nodemailer",
   "main": "index.js",
   "scripts": {
